@@ -143,7 +143,7 @@ ___
 ---
 # Acknowledgements
 ### Final Notes & Recognition from Author
-  > *This project was inspired by the 32 year old Financial Advisor whom is taking the bold chance, to change his career and make his 12 year old self proud of for achieving his dream job... I hope to make you proud...*
+  > *This project was inspired by the 32 year old Financial Advisor who is taking the leap of faith to change his career and accomplish his dream job since the moment he first touched a computer at 12 years old... I hope to make you proud...*
 -  Git Repo URL for Case Study 
   ```
   HTTPS: https://github.com/areyes12/homework.git 
