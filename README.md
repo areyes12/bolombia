@@ -8,12 +8,14 @@
 
 #### <u>Table of Contents:</u>
 
-##### - Introduction
-##### - Business Activities
-##### - Landscape
-##### - Results
-##### - Recommendations 
-##### - Conclusion
+##### - [Introduction](#introduction)
+##### - [Business Activities](#business-activities)
+##### - [Landscape](#landscape)
+##### - [Results](#results)
+##### - [Recommendations](#recommendations)
+##### - [Conclusion](#final-takeaway)
+##### - [Addendum](#addendum)
+##### - [Acknowledgements](#acknowledgements)
 ___
 # Introduction
 
@@ -33,11 +35,6 @@ ___
 
 ###### 1. [Tech Crunch - Klarna Q1 Results by Market Analysis](https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/)
 ---
-
-#### FinTech Domain Trends (20 points)
-
-* Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
-
 # Business Activities
 
 *A Solution To A Problem You Never Knew You Had...*
@@ -90,7 +87,7 @@ ___
 
 # Results 
  
-*Disrupting an industry vs. Real-life impact* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+*Disrupting an industry vs. Real-life impact* 
 
   > Klarna has been able to create a solution to a problem that didn't necessarily need to be solved to begin with. While economy and marketplaces thrive in  favorable conditions intentionally designed to drive business, payment was walternative solution. By engineering this disruptive yet intuitive convenient financing option, whilst leveraging coordinated merchant relationships, Klarna has been able to capture a significant market share in the overall e-commerce world. Everyday in Stockholm since 2005, Klarna's efforts like its targeted relationships to make online shopping even more easy, helped catipult it into the driver's seat as market leader amd market maker of sorts. Although it thrives as a non-traditional financial institutition, any participant within the world of finance and commerce understands the fundamental units and measurables to evidence activity, transactional volumes, and other relavant metrics. Klarna despite losing much of their peak valuation post-pandemic still maintains and boasts its captured market share such as being,  "...one of Europe's largest banks with 90,000,000 customers, over 200,000 merchants, and at least 1,000,000 transactions a day." 6 So while Klarna can't boast any longer their once proud $45.6 Billion valuation 7 
 
@@ -108,17 +105,13 @@ ___
 
 # Recommendations 
 
-*If you build it, will they do it?*
+*But if you build it... will they do it?*
 
-  > If hypothetically offered the privilege and ability to advise Klarna on the company direction and strategy, I would suggest they incentive their business model with membership tiered relationships for customers to become recurring clients. While the prospect of paying off something like a large purchase or non-essential, self-indulging luxury item with time rather than absorb the swift brunt of a multi digit debit of available monies, it would be the entity’s responsibility to not only their customer base but stockholders, to foster continued service usage, reward loyal users, alongside incentivize further utilization. Forbes magazine published a news bit in their innovation section, highlighting  “…79% of consumers look for deals in loyalty rewards programs before buying an item”  7
+  > If hypothetically offered the privilege and ability to advise Klarna on the company direction and strategy, I would suggest they incentive their business model with membership tiered relationships for customers to become recurring clients. While the prospect of paying off something like a large purchase or non-essential, self-indulging luxury item with time rather than absorb the swift brunt of a multi digit debit of available monies, it would be the entity’s responsibility to not only their customer base but stockholders, to foster continued service usage, reward loyal users, alongside incentivize further utilization. Forbes magazine published a news bit in their innovation section, highlighting  “…79% of consumers look for deals in loyalty rewards programs before buying an item”. 7 It is said that the decision to buy something is pre-emptively made as soon as you enter the store; until you realize the very intentional actions and thought process undertaken to ensure you'll consider swiping that card and signing your name until the very last second.
 
   > I believe that offering this service feature would benefit the company because consumers understand the basic logic of exchange in something of value for goods or services. With the exception of gifts, charity, or any other similar form of philanthropy, any tangible item with inherent value is naturally associated with a cost to measure or acquire; the distinguishing difference of volume received in the aforementioned exchange is which merchant or vendor uses intangibles and creativity wisely to create a fruitful ecosystem.
 
-  > While this reward incentive strategy has been used before by traditional financial institutions and other pillars functioning within capitalism, Klarna, like many other FinTech companies, are emboldened and lauded for their ability to not only expectedly innovate but disrupt the financial arena for the better. While data and predictive machine learning algorithms nowadays empower companies with reliable information to guide future business plans, campaign strategies and marketing promotions, the fundamental psychology associated with why people purchase things are what environmental factors may heighten or reduce their probability to successfully purchase is the true ___. This can be accomplished by tapping into modern support resources like artificial intelligence . 
-
-*Why are these technologies appropriate for your solution?*
- 
-  > In the realm of payment solutions and commerce, any malleable method  
+  > While this reward incentive strategy has been used before by traditional financial institutions and other pillars functioning within capitalism, Klarna, like many other FinTech companies, are emboldened and lauded for their ability to not only expectedly innovate but disrupt the financial arena for the better. While data and predictive machine learning algorithms nowadays empower companies with reliable information to guide future business plans, campaign strategies and marketing promotions, the fundamental psychology associated with why people purchase things is influenced by various factors prior to checkout, that heighten or reduce the probability of the consumer making a successful purchase. This can be accomplished by tapping into modern support resources like artificial intelligence.
 
 #### *<u>Sources</u>*
 
@@ -126,7 +119,13 @@ ___
 
 ###### 10. [TechCrunch -  Klarna Q1 Results](https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/)
 
-#Takeaway
+# Final Takeaway
+
+*Humankind has continued to evolve throughout history, albeit never at such a rapid pace as exists now in this new modern age. This new mellenia has broughout us an array of sustained creativity and innovations that bring society to horizons never before seen; enshrined through the existance of a global community empowered through harnessed technology.*
+
+*While Klarna may have not invented a new tool or theory that would redefine basic financial & quantitative principles as we know, often the most impactful and perceived "disruptive" innovations in today's age come in simple, mundane packages. Technology and Finance both suredly have an abundance of knowledge, skillsets, analytical and critical challenges that can be taken to another level as we strive to be more powerful and efficient at the same time. Complicated research and breakthroughs are reported everyday, but it is the simple ammenities that when presented correctly to offer increased convenience, flexibility and ease, can result in a force to be reckoned with such as Klarna.*
+
+*Their footprint and digital presence exists differently through avenues like marketing, shopping, e-commerce, online advertisements and contractual partnerships with world recognizable brands and industry leaders, Klarma not only took it back to the drawing board, but to even more simpler times like the playground when you could get any kid's dream for the cost of a set amount of fixed payments or agreed amount of chocolate milk. Regardless, FinTech continues to mature and define a legacy behind as it continues to march forward in time to change the world for the better.*
 
 # Addendum
 ##### *Hopefully I spell that right hehe* ^^
@@ -143,17 +142,20 @@ ___
   > - 10 - [TechCrunch -  Klarna Q1 Results](https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/)
 
 ---
-## Acknowledgements
+# Acknowledgements
 ### Final Notes & Recognition from Author
-  
-  
   > *This project was inspired by the 32 year old Financial Advisor whom is taking the bold chance, to change his career and make his 12 year old self proud of for achieving his dream job... I hope to make you proud...*
--  Git Repo URL for Case Study - https://github.com/areyes12/boom-shakalaka/tree/main/homework
+-  Git Repo URL for Case Study 
+  ```
+  HTTPS: https://github.com/areyes12/homework.git 
+  SSH: git@github.com:areyes12/homework.git"
+  ```
+
 - This README was mostly mine, with guidance taken from this class provided resource:  [AWESOME Readme tutorial guide](https://www.example.com).
-- Many thanks to Root Beer, Ginger the Yorkie and Maggie the Shih-Tzu
+- Many thanks to the best soda in the world - Root Beer, alongside my adorable partners in crime: Ginger the Yorkie and Maggie the Shih-Tzu
 
 
-## Contact
+# Contact
 Created by _Alexis Reyes aka Sir Prince Alexander III aka @A1Kutbay_ 
 https://www.linkedin.com/in/alexis-reyes-21916456/ 
 
